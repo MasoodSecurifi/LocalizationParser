@@ -1,214 +1,126 @@
 {
-  "root": {
-    "string": [
-      {
-        "-name": "sunRiseTime",
-        "#text": "SunRise"
-      },
-      {
-        "-name": "sunSetTime",
-        "#text": "SunSet"
-      },
-      {
-        "-name": "twilightTime",
-        "#text": "Twilight Time"
-      },
-      {
-        "-name": "weather",
-        "#text": "Weather"
-      },
-      {
-        "-name": "chancerain",
-        "#text": "Chance of Rain"
-      },
-      {
-        "-name": "rain",
-        "#text": "Raining"
-      },
-      {
-        "-name": "clear",
-        "#text": "Clear Sky"
-      },
-      {
-        "-name": "cloudy",
-        "#text": "Cloudy"
-      },
-      {
-        "-name": "tstorms",
-        "#text": "Thunder Storms"
-      },
-      {
-        "-name": "chancesnow",
-        "#text": "Chance of Snow"
-      },
-      {
-        "-name": "chanceflurries",
-        "#text": "Chance of Flurries"
-      },
-      {
-        "-name": "chancesleet",
-        "#text": "Chance of Sleet"
-      },
-      {
-        "-name": "chancetstorms",
-        "#text": "Chance of Storms"
-      },
-      {
-        "-name": "flurries",
-        "#text": "Flurries"
-      },
-      {
-        "-name": "fog",
-        "#text": "Fog"
-      },
-      {
-        "-name": "hazy",
-        "#text": "Hazy"
-      },
-      {
-        "-name": "mostlycloudy",
-        "#text": "Mostly Cloudy"
-      },
-      {
-        "-name": "mostlysunny",
-        "#text": "Mostly Sunny"
-      },
-      {
-        "-name": "nt_chanceflurries",
-        "#text": "Night: Chance of Flurries"
-      },
-      {
-        "-name": "nt_chancerain",
-        "#text": "Night: Chance of Rain"
-      },
-      {
-        "-name": "nt_chancesleet",
-        "#text": "Night: Chance of Sleet"
-      },
-      {
-        "-name": "nt_chancesnow",
-        "#text": "Night: Chance of Snow"
-      },
-      {
-        "-name": "nt_chancetstorms",
-        "#text": "Night: Chance of Storms"
-      },
-      {
-        "-name": "nt_clear",
-        "#text": "Night: Clear Sky"
-      },
-      {
-        "-name": "nt_cloudy",
-        "#text": "Night: Cloudy"
-      },
-      {
-        "-name": "nt_flurries",
-        "#text": "Night: Flurries"
-      },
-      {
-        "-name": "nt_fog",
-        "#text": "Night: Fog"
-      },
-      {
-        "-name": "nt_hazy",
-        "#text": "Night: Hazy"
-      },
-      {
-        "-name": "nt_mostlycloudy",
-        "#text": "Night: Mostly Cloudy"
-      },
-      {
-        "-name": "nt_mostlysunny",
-        "#text": "Night: Mostly Moony"
-      },
-      {
-        "-name": "nt_partlycloudy",
-        "#text": "Night: Partly Cloudy"
-      },
-      {
-        "-name": "nt_partlysunny",
-        "#text": "Night: Partly Moony"
-      },
-      {
-        "-name": "nt_rain",
-        "#text": "Night: Rain"
-      },
-      {
-        "-name": "nt_sleet",
-        "#text": "Night: Sleet"
-      },
-      {
-        "-name": "nt_snow",
-        "#text": "Night: Snow"
-      },
-      {
-        "-name": "nt_sunny",
-        "#text": "Night: Moony"
-      },
-      {
-        "-name": "nt_tstorms",
-        "#text": "Night: Thunder Storms"
-      },
-      {
-        "-name": "partlycloudy",
-        "#text": "Partly Cloudy"
-      },
-      {
-        "-name": "sleet",
-        "#text": "Sleet"
-      },
-      {
-        "-name": "partlysunny",
-        "#text": "Partly Sunny"
-      },
-      {
-        "-name": "snow",
-        "#text": "Snowing"
-      },
-      {
-        "-name": "sunny",
-        "#text": "Sunny"
-      },
-      {
-        "-name": "partlyMoony",
-        "#text": "Partly Moony"
-      },
-      {
-        "-name": "mostlyMoony",
-        "#text": "Mostly Moony"
-      },
-      {
-        "-name": "moony",
-        "#text": "Moony"
-      },
-      {
-        "-name": "setpoint_temp",
-        "#text": "SetPoint temp"
-      },
-      {
-        "-name": "sunnycondition",
-        "#text": "Condition"
-      },
-      {
-        "-name": "one_press",
-        "#text": "One Press"
-      },
-      {
-        "-name": "two_press",
-        "#text": "Two Press"
-      },
-      {
-        "-name": "long_press",
-        "#text": "Long Press"
-      },
-      {
-        "-name": "no_press",
-        "#text": "No Press"
-      },
-      {
-        "-name": "press",
-        "#text": "Press"
-      }
-    ]
-  }
+    "root": {
+        "string": [
+                   {
+                   "-name": "Welcome",
+                   "#text": "Welcome"
+                   },
+                   {
+                   "-name": "The_Dashboard",
+                   "#text": "The Dashboard"
+                   },
+                   {
+                   "-name": "Theres_More",
+                   "#text": "There\\u0027s More!"
+                   },
+                   {
+                   "-name": "Almond_Notifications",
+                   "#text": "Almond_Notifications"
+                   },
+                   {
+                   "-name": "loginSuccess",
+                   "#text": "You\\u0027ve successfully logged into your Almond account!\\nThis guide will help you make the most of your Almond. Read on to learn about Almond features and how they can turn your home into a smart home."
+                   },
+                   {
+                   "-name": "theDashboard",
+                   "#text": "The Almond dashboard puts the status of your home at your fingertips. Know what mode your system is in right away and change it by tapping the icons. Scroll down to review smart home alerts, network activity and bandwidth usage."
+                   },
+                   {
+                   "-name": "almModes",
+                   "#text": "You can use the Almond modes to arm or disarm your home, just like you would do for your car. The Home mode means that you are at home, while the Away mode means that the Almond is put on alert. Secure and automate your home conveniently by writing rules to set the Almond mode, and then use the mode to write more rules."
+                   },
+                   {
+                   "-name": "scene_mean",
+                   "#text": "What is a Scene?"
+                   },
+                   {
+                   "-name": "What_is_scene_Desc",
+                   "#text": "A scene is a collection of simultaneous actions that you can activate in one go. For example you can create a scene named “Good Night” and include turning all the lights in your home off in the scene. Then, activating the “Good Night” scene will then turn the selected lights off with the tap of a button."
+                   },
+                   {
+                   "-name": "Creating_a_Scene",
+                   "#text": "Creating a Scene"
+                   },
+                   {
+                   "-name": "Creating_a_Scene_Desc",
+                   "#text": "Tap the add button in the Scenes tab to get started. Then, add a device by tapping the device name and choosing the state of the device from the options. Add as many devices as you need this way, then tap on “Save”. Follow the onscreen instructions to complete creating your scene."
+                   },
+                   {
+                   "-name": "Scene_Behaviour",
+                   "#text": "Scene Behaviour"
+                   },
+                   {
+                   "-name": "Scene_Behaviour_Desc",
+                   "#text": "A Scene is active if and only if all of its devices are in the status you’ve set for the scene. This means that a scene can be turned off if a device in it changes state, or another scene modifies the state of its devices. Don’t be alarmed if a scene you’ve turned on is turned off by another scene or device!"
+                   },
+                   {
+                   "-name": "Alexa_and_Scenes",
+                   "#text": "Alexa and Scenes"
+                   },
+                   {
+                   "-name": "Alexa_and_Scenes_Desc",
+                   "#text": "If you have an Amazon Alexa device, you can control scenes with voice commands. To get started, open your Alexa account and activate the Almond Skill."
+                   },
+                   {
+                   "-name": "Rules_Desc",
+                   "#text": "Rules allow you to automate your smarthome by setting up actions that will be performed automatically when the conditions you choose are met.You could create a rule like “Everyday, if My iPhone joins home wifi between 6pm and 10pm, then turn on living room lights and set the thermostat to 70°” to have your home welcome you with a comfortable atmosphere after a long day at work."
+                   },
+                   {
+                   "-name": "Creating_a_Rule",
+                   "#text": "Creating a Rule"
+                   },
+                   {
+                   "-name": "Creating_a_Rule_Desc",
+                   "#text": "To begin creating a rule, tap the add button on the Rules screen.Every rule needs at least one IF trigger (shown in blue) and one THEN action (shown in orange)."
+                   },
+                   {
+                   "-name": "Rule_Chaining",
+                   "#text": "Rule Chaining"
+                   },
+                   {
+                   "-name": "Rule_Chaining_Desc",
+                   "#text": "Once you are comfortable with creating and using rules, you can try rule chaining.For example, you could create a rule like “If my iPhone leaves Home Wi-Fi network, set Almond mode to away” and another rule “If Almond mode is set to away, turn off bedroom light”. If you would like, you could also attach another rule to the chain, using the bedroom light as the trigger.Rules set up this way allow you to modify one part of the chain without disturbing the other parts."
+                   },
+                   {
+                   "-name": "IFTTT",
+                   "#text": "IFTTT Now Works With Almond"
+                   },
+                   {
+                   "-name": "IFTTT_Desc",
+                   "#text": "Almond now works with IFTTT. Add the Almond channel to your IFTTT recipes to start using your Almond with Google Drive, GPS Location, Email, SMS and more!"
+                   },
+                   {
+                   "-name": "More_to_Almond",
+                   "#text": "There’s More To Almond Than Meets The Eye"
+                   },
+                   {
+                   "-name": "More_to_Almond_Desc",
+                   "#text": "Almond makes WiFi easy for you. Share it with guests and friends, and even let another person manage your Almond. If you are a power user, you can use the Web UI to access the advanced features Almond offers, including port forwarding, VPN, FTP and more."
+                   },
+                   {
+                   "-name": "Guest_Network",
+                   "#text": "Guest Network"
+                   },
+                   {
+                   "-name": "Guest_Network_Desc",
+                   "#text": "You can enable a guest network on your Almond for your guests and friends to use temporarily. To configure a guest network, tap on the Wireless app on the Almond LCD and choose Guest Network."
+                   },
+                   {
+                   "-name": "Share_Control",
+                   "#text": "Share Control of your Almond"
+                   },
+                   {
+                   "-name": "Share_Control_Desc",
+                   "#text": "You can share control of your Almond with family and trusted friends. Go to More in the Almond app and tap on Almond Sharing. Enter the email id of the person to start sharing control."
+                   },
+                   {
+                   "-name": "Advanced_Features",
+                   "#text": "Use Advanced Features"
+                   },
+                   {
+                   "-name": "Advanced_Features_Desc",
+                   "#text": "To use Almond’s advanced features, you will need to access the Web UI. On the Almond LCD Screen, tap on the Status app and choose Web Admin to see the IP address and login details for the Web UI."
+                   }
+                   ]
+    }
 }

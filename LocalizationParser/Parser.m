@@ -32,11 +32,11 @@
 
 +(void)getiOSLocalizableStirngs{
     NSDictionary *strings = [self parseJson:@"strings"];
-//    NSLog(@"strings: %@", strings);
-//    NSArray *stringsArray = [strings[@"root"] valueForKey:@"string"];
-//    for(NSDictionary *stringDict in stringsArray){
-//        NSString *str = [NSString stringWithFormat:@"\"%@\" = \"%@\";", stringDict[@"-name"], stringDict[@"#text"]];
-//        NSLog(@"%@", str);
-//    }
+    NSLog(@"strings: %@", strings);
+    NSArray *stringsArray = [strings[@"root"] valueForKey:@"string"];
+    for(NSDictionary *stringDict in stringsArray){
+        NSString *str = [NSString stringWithFormat:@"\"%@\" = \"%@\";", stringDict[@"-name"], stringDict[@"#text"]];
+        NSLog(@"%@", str);
+    }
 }
 @end
